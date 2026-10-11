@@ -10,9 +10,9 @@ Rather than assuming drones are always faster, I wanted to explore **when drone 
 
 ## Motivation
 
-I lived in Shenzhen, China, for 18 years before moving to Montreal for university. Drone delivery was an idea I became interested in while living in Shenzhen, and I started wondering whether something similar could work in Montreal.
+I lived in Shenzhen China:) , for 18 years before moving to Montreal. Drone delivery was an idea I became interested in while living in Shenzhen, and I started wondering whether something similar could work in Montreal.
 
-After moving here, I noticed how different the delivery environment is. Many food couriers use bikes or e-bikes, and road construction, traffic, and especially Montreal's long winters can make deliveries more challenging. I've often wondered how these conditions affect delivery times, both for couriers and for customers waiting for their food.
+After moving here, I noticed how different the delivery environment is. Many food couriers use bikes or e-bikes, and road construction, traffic, and especially Montreal's long winters can make deliveries more challenging... I've often wondered how these conditions affect delivery times, both for couriers and for customers waiting for their food.
 
 However, I also realize that drone delivery comes with its own challenges. Drones need preparation time after an order is ready, have limited battery capacity and operating range, and may not be able to fly safely in severe weather. Montreal's winter conditions make these limitations particularly important.
 
